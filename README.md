@@ -20,21 +20,35 @@ I also teach crypto in Hindi and English on YouTube, Instagram, X and Telegram.
 
 ### Stack
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-![TON](https://img.shields.io/badge/TON-0098EA?style=flat&logo=ton&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+I work across the full stack, from smart contracts to mobile apps and games, and pick the tools that fit the project.
 
-EVM chains, Solana, TON, LLM APIs.
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=solidity,rust,go,ts,js,py,cpp,c,cs,java,kotlin,swift,dart,php,ruby,scala,elixir,haskell,lua,r&perline=10)](https://saddammalik.com)
+
+**Blockchain & Web3**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white) ![TON](https://img.shields.io/badge/TON-0098EA?style=flat&logo=ton&logoColor=white) ![BNB Chain](https://img.shields.io/badge/BNB_Chain-F0B90B?style=flat&logo=binance&logoColor=black) ![Polygon](https://img.shields.io/badge/Polygon-7B3FE4?style=flat&logo=polygon&logoColor=white) ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black) ![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logo=ethereum&logoColor=white) ![Anchor](https://img.shields.io/badge/Anchor-512BD4?style=flat&logo=solana&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat&logo=ethereum&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+
+**Web, frontend & backend**
+
+[![Web](https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs,vue,nuxtjs,angular,svelte,astro,threejs,nodejs,express,nestjs,django,flask,fastapi,laravel,rails,spring,graphql&perline=11)](https://saddammalik.com)
+
+**Mobile, desktop & games**
+
+[![Mobile and games](https://skillicons.dev/icons?i=flutter,react,kotlin,swift,androidstudio,unity,unreal,godot,blender)](https://saddammalik.com)
+
+**AI & data**
+
+[![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,py)](https://saddammalik.com) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,firebase,prisma)](https://saddammalik.com)
+
+**Cloud & DevOps**
+
+[![Cloud](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,cloudflare,vercel,linux,nginx,git,github,githubactions,figma)](https://saddammalik.com)
 
 ### How I work
 
