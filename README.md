@@ -1,6 +1,6 @@
 # Saddam Malik
 
-Crypto trader since 2011 and independent developer working under my own name, based in Dubai. Fifteen years and four Bitcoin halvings in, I build Web3 and AI products and help crypto projects reach real users.
+Crypto trader since 2011 and independent developer working under my own name. Fifteen years and four Bitcoin halvings in, I build Web3 and AI products and help crypto projects reach real users.
 
 ### What I build
 
